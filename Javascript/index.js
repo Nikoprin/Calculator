@@ -12,7 +12,6 @@ function getFirstNumber(){
 function getSecondNumber(){
     return Number(secondNumber.value);
 }
-
 function getResultOfFoldingNumbers(){
     let result = getFirstNumber() + getSecondNumber();
     
